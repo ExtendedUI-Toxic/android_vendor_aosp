@@ -1,4 +1,4 @@
-ifeq ($(CUSTOM_BUILD_TYPE), OFFICIAL)
+ifeq ($(CUSTOM_BUILD_TYPE), Hazardous)
 
 CUSTOM_OTA_VERSION_CODE := android_10
 
